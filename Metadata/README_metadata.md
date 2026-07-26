@@ -30,11 +30,11 @@ Uncertainty maps contain the standard deviation of predictions obtained from ten
 
 | Variable | Description | Unit |
 |----------|-------------|------|
-| P | Available phosphorus | ppm (mg kg⁻¹) |
-| K | Exchangeable potassium | ppm (mg kg⁻¹) |
-| Mg | Exchangeable magnesium | ppm (mg kg⁻¹) |
-| Ca | Exchangeable calcium | ppm (mg kg⁻¹) |
-| Fe | Available iron | ppm (mg kg⁻¹) |
+| P | Available phosphorus | ppm |
+| K | Exchangeable potassium | ppm |
+| Mg | Exchangeable magnesium | ppm |
+| Ca | Exchangeable calcium | ppm |
+| Fe | Available iron | ppm |
 | pH | Soil pH | pH units |
 | CEC | Cation exchange capacity | meq/100 g |
 
