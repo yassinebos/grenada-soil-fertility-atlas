@@ -32,11 +32,11 @@ Figures/
 - Spatial resolution: 30 m
 - Format: GeoTIFF (.tif)
 - Study area: Grenada
-- Coordinate reference system: (to be completed)
+- Coordinate reference system: EPSG:32620 - WGS 84 / UTM zone 20N
 
 ## Citation
 
-(We'll add the paper citation and Zenodo DOI later.)
+xxxxxxx
 
 ## License
 
