@@ -1,0 +1,29 @@
+﻿Filename,Variable,Product,Depth (cm),Unit,Resolution (m),CRS,Data type,NoData,Compression,Description
+P_0_30cm_prediction.tif,Available phosphorus,Prediction,0–30,ppm,30,EPSG:32620,Float32,NA,LZW,Predicted available phosphorus concentration.
+P_0_30cm_uncertainty.tif,Available phosphorus,Uncertainty,0–30,ppm,30,EPSG:32620,Float32,NA,LZW,Standard deviation of 10 bootstrap prediction replicates for available phosphorus.
+K_0_30cm_prediction.tif,Exchangeable potassium,Prediction,0–30,ppm,30,EPSG:32620,Float32,NA,LZW,Predicted exchangeable potassium concentration.
+K_0_30cm_uncertainty.tif,Exchangeable potassium,Uncertainty,0–30,ppm,30,EPSG:32620,Float32,NA,LZW,Standard deviation of 10 bootstrap prediction replicates for exchangeable potassium.
+Mg_0_30cm_prediction.tif,Exchangeable magnesium,Prediction,0–30,ppm,30,EPSG:32620,Float32,NA,LZW,Predicted exchangeable magnesium concentration.
+Mg_0_30cm_uncertainty.tif,Exchangeable magnesium,Uncertainty,0–30,ppm,30,EPSG:32620,Float32,NA,LZW,Standard deviation of 10 bootstrap prediction replicates for exchangeable magnesium.
+Ca_0_30cm_prediction.tif,Exchangeable calcium,Prediction,0–30,ppm,30,EPSG:32620,Float32,NA,LZW,Predicted exchangeable calcium concentration.
+Ca_0_30cm_uncertainty.tif,Exchangeable calcium,Uncertainty,0–30,ppm,30,EPSG:32620,Float32,NA,LZW,Standard deviation of 10 bootstrap prediction replicates for exchangeable calcium.
+Fe_0_30cm_prediction.tif,Available iron,Prediction,0–30,ppm,30,EPSG:32620,Float32,NA,LZW,Predicted available iron concentration.
+Fe_0_30cm_uncertainty.tif,Available iron,Uncertainty,0–30,ppm,30,EPSG:32620,Float32,NA,LZW,Standard deviation of 10 bootstrap prediction replicates for available iron.
+pH_0_30cm_prediction.tif,Soil pH,Prediction,0–30,pH units,30,EPSG:32620,Float32,NA,LZW,Predicted soil pH.
+pH_0_30cm_uncertainty.tif,Soil pH,Uncertainty,0–30,pH units,30,EPSG:32620,Float32,NA,LZW,Standard deviation of 10 bootstrap prediction replicates for soil pH.
+CEC_0_30cm_prediction.tif,Cation exchange capacity,Prediction,0–30,meq/100 g,30,EPSG:32620,Float32,NA,LZW,Predicted cation exchange capacity.
+CEC_0_30cm_uncertainty.tif,Cation exchange capacity,Uncertainty,0–30,meq/100 g,30,EPSG:32620,Float32,NA,LZW,Standard deviation of 10 bootstrap prediction replicates for cation exchange capacity.
+P_0_50cm_prediction.tif,Available phosphorus,Prediction,0–50,ppm,50,EPSG:32620,Float32,NA,LZW,Predicted available phosphorus concentration.
+P_0_50cm_uncertainty.tif,Available phosphorus,Uncertainty,0–50,ppm,50,EPSG:32620,Float32,NA,LZW,Standard deviation of 10 bootstrap prediction replicates for available phosphorus.
+K_0_50cm_prediction.tif,Exchangeable potassium,Prediction,0–50,ppm,50,EPSG:32620,Float32,NA,LZW,Predicted exchangeable potassium concentration.
+K_0_50cm_uncertainty.tif,Exchangeable potassium,Uncertainty,0–50,ppm,50,EPSG:32620,Float32,NA,LZW,Standard deviation of 10 bootstrap prediction replicates for exchangeable potassium.
+Mg_0_50cm_prediction.tif,Exchangeable magnesium,Prediction,0–50,ppm,50,EPSG:32620,Float32,NA,LZW,Predicted exchangeable magnesium concentration.
+Mg_0_50cm_uncertainty.tif,Exchangeable magnesium,Uncertainty,0–50,ppm,50,EPSG:32620,Float32,NA,LZW,Standard deviation of 10 bootstrap prediction replicates for exchangeable magnesium.
+Ca_0_50cm_prediction.tif,Exchangeable calcium,Prediction,0–50,ppm,50,EPSG:32620,Float32,NA,LZW,Predicted exchangeable calcium concentration.
+Ca_0_50cm_uncertainty.tif,Exchangeable calcium,Uncertainty,0–50,ppm,50,EPSG:32620,Float32,NA,LZW,Standard deviation of 10 bootstrap prediction replicates for exchangeable calcium.
+Fe_0_50cm_prediction.tif,Available iron,Prediction,0–50,ppm,50,EPSG:32620,Float32,NA,LZW,Predicted available iron concentration.
+Fe_0_50cm_uncertainty.tif,Available iron,Uncertainty,0–50,ppm,50,EPSG:32620,Float32,NA,LZW,Standard deviation of 10 bootstrap prediction replicates for available iron.
+pH_0_50cm_prediction.tif,Soil pH,Prediction,0–50,pH units,50,EPSG:32620,Float32,NA,LZW,Predicted soil pH.
+pH_0_50cm_uncertainty.tif,Soil pH,Uncertainty,0–50,pH units,50,EPSG:32620,Float32,NA,LZW,Standard deviation of 10 bootstrap prediction replicates for soil pH.
+CEC_0_50cm_prediction.tif,Cation exchange capacity,Prediction,0–50,meq/100 g,50,EPSG:32620,Float32,NA,LZW,Predicted cation exchange capacity.
+CEC_0_50cm_uncertainty.tif,Cation exchange capacity,Uncertainty,0–50,meq/100 g,50,EPSG:32620,Float32,NA,LZW,Standard deviation of 10 bootstrap prediction replicates for cation exchange capacity.
