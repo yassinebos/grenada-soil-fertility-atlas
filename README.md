@@ -1,11 +1,8 @@
 # Grenada Soil Fertility Atlas (GSFA)
 
-![Preview](Figures/preview_maps.png)
-
-
 <p align="center">
 <a href="Figures/preview_maps.png">
-    <img src="Figures/preview_maps.png" width="850">
+    <img src="Figures/preview_maps.png" width="500">
 </a>
 </p>
 
