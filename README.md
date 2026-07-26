@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="Figures/preview_maps.png">
-    <img src="Figures/preview_maps.png" width="500">
+    <img src="Figures/preview_maps.png" width="800">
 </a>
 </p>
 
