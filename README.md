@@ -27,6 +27,13 @@ The repository contains prediction and uncertainty maps for:
 ## Repository structure
 
 Prediction_maps/
+
+<p align="center">
+<a href="Figures/maps_all_parameters.png">
+    <img src="Figures/maps_all_parameters.png" width="850">
+</a>
+</p>
+
 Uncertainty_maps/
 Metadata/
 Figures/
