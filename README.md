@@ -30,11 +30,18 @@ Prediction_maps/
 
 <p align="center">
 <a href="Figures/maps_all_parameters.png">
-    <img src="Figures/maps_all_parameters.png" width="850">
+    <img src="Figures/maps_all_parameters.png" width="500">
 </a>
 </p>
 
 Uncertainty_maps/
+
+<p align="center">
+<a href="Figures/Uncertainty_maps.png">
+    <img src="Figures/Uncertainty_maps.png" width="500">
+</a>
+</p>
+
 Metadata/
 Figures/
 
