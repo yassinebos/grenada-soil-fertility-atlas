@@ -8,7 +8,7 @@
 
 ## Overview
 
-The Grenada Soil Fertility Atlas (GSFA) provides high-resolution (30 m) prediction and uncertainty maps for seven soil fertility indicators across agricultural lands in Grenada. The dataset was developed within the Soil Fertility Mapping Project (SFMP) under the Morocco–Caribbean South–South Cooperation Initiative and accompanies the Scientific Data publication.
+The Grenada Soil Fertility Atlas (GSFA) provides high-resolution (30m) prediction and uncertainty maps for seven soil fertility indicators across agricultural lands in Grenada. The dataset was developed within the Soil Fertility Mapping Project (SFMP) implemented under the Morocco–Caribbean South–South Cooperation Initiative and accompanies the Scientific Data publication.
 
 ## Dataset
 
@@ -40,7 +40,7 @@ Figures/
 
 ## Citation
 
-xxxxxxx
+https://doi.org/10.5281/zenodo.21613063
 
 ## License
 
